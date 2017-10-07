@@ -1,4 +1,5 @@
 # Retrofit-Android-Example
+# I have not done what i have written below coz i dident have time to make the service for this example so i am using movie DB.
 a basic overview
 
 ### You need to firstly understand what these requests(GET,PUT,POST,DELETE) are.
